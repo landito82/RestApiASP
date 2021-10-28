@@ -1,0 +1,16 @@
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\RestApiASP.deps.json
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\RestApiASP.runtimeconfig.json
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\RestApiASP.runtimeconfig.dev.json
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\RestApiASP.dll
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\bin\Debug\netcoreapp2.1\RestApiASP.pdb
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.RazorAssemblyInfo.cache
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.RazorAssemblyInfo.cs
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.AssemblyInfoInputs.cache
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.AssemblyInfo.cs
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.RazorTargetAssemblyInfo.cache
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.dll
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.pdb
+C:\Users\Landito82\source\repos\RestApiASP\RestApiASP\obj\Debug\netcoreapp2.1\RestApiASP.csprojAssemblyReference.cache
